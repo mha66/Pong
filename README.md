@@ -1,5 +1,5 @@
 # Pong
-This is a recreation of the classic pong video game with extra feautres. The game is implemented entirely in the C programming language using SDL library to display graphics on the screen, and SDL_mixer to play music and sound effects.
+This is a recreation of the classic pong video game with extra features. The game is implemented entirely in the C programming language using SDL library to display graphics on the screen, and SDL_mixer to play music and sound effects.
 
 To compile you need to have SDL2 and SDL2_mixer installed on your system and the header files available to you operating systems.
 
@@ -13,7 +13,7 @@ The following files and folders should be placed in the same folder as the proje
 ## Controls
 Press Esc key at any point to exit the application. 
 ### Title Screen:
-* up and down arrows to change gamemodes (Player 1 vs Computer or Player 1 vs Player 2)
+* up and down arrows to change game modes (Player 1 vs Computer or Player 1 vs Player 2)
 * right and left arrows to change the paddle color of player 1 (on the right)
 * A and D keys to change the paddle color of player 2 (on the left)
 * space bar to start a game
